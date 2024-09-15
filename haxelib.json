@@ -1,0 +1,13 @@
+{
+  "name": "SScript",
+  "url": "https://github.com/TheWorldMachinima/SScript",
+  "license": "Apache",
+  "tags": ["hscript", "sscript"],
+  "description": "An easy-to-use Haxe Script tool for all targets.",
+  "version": "4.0.1",
+  "classPath": "src/",
+  "releasenote": "Return values with no functions + added startedExecute back",
+  "contributors": ["TheWorldMachinima", "TahirRollingArch"],
+  "dependencies": {
+  }
+}
