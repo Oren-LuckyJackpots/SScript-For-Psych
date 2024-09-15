@@ -1,0 +1,13 @@
+{
+  "name": "SScript",
+  "url": "",
+  "license": "MIT",
+  "tags": [],
+  "description": "SScript is discontinued! Thank you for your support!",
+  "version": "21.0.0",
+  "classPath": "src/",
+  "releasenote": "SScript is discontinued! Thank you for your support!",
+  "contributors": ["TahirKarabekiroglu"],
+  "dependencies": {
+  }
+}
