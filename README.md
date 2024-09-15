@@ -28,9 +28,11 @@ To report issues, open one in GitHub. Please follow the instructions carefully a
 For issues with specific versions, open an issue and tell us what's wrong with any version.
 
 ## Credits
-
+### Original Contributor
 - [Cobalt Bar](https://cobaltbar.github.io/) - Putting the collection together
 - [tposejank](https://tposejank.carrd.co/) - SScript zips + verification
 - [LarryFrosty](https://www.youtube.com/@larryfrosty) - SScript zips
 - [Moonlight Catalyst](https://mooniecat.carrd.co/) - SScript zips
 - [Lily](https://mcagabe19.pages.gay/) - Mobile SScript Patches
+### Oren
+- [Oren](https://x.com/Oren_too) - Thing
