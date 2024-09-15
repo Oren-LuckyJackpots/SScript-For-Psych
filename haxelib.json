@@ -1,0 +1,13 @@
+{
+  "name": "SScript",
+  "url": "https://github.com/TahirKarabekiroglu/SScript",
+  "license": "Apache",
+  "tags": [],
+  "description": "",
+  "version": "8.1.6",
+  "classPath": "src/",
+  "releasenote": "",
+  "contributors": ["tahirk786"],
+  "dependencies": {
+  }
+}
