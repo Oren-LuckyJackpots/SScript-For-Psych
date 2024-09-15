@@ -6,7 +6,7 @@ Archived versions of SScript, a Haxe Script library, so Psych Engine can be deve
 
 ### Install manually
 
-do `haxelib git SScript https://github.com/Oren-LuckyJackpots/SScript-For-Psych/tree/7.7.0/`
+do `haxelib git SScript https://github.com/Oren-LuckyJackpots/SScript-For-Psych/tree/21.0.0`
 
 ## Recommended versions
 
